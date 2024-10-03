@@ -1,0 +1,2 @@
+Neural nets from scratch 
+Backprop from scartch with visaulization
